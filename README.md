@@ -1,49 +1,48 @@
 # Hi 👋 I'm Aashish Vishwakarma
 
-Frontend Developer who enjoys building real-world business websites and web interfaces.
+I'm a frontend developer who enjoys building practical websites for real businesses. I mostly work with HTML, CSS, JavaScript, Bootstrap, and Django templates, and I like focusing on clean layouts and responsive designs.
 
-I mainly work with **HTML, CSS, JavaScript, Bootstrap and Django templates** and focus on creating responsive and user-friendly websites.
-
----
-
-## 🛠 Tech Stack
-
-HTML | CSS | JavaScript | Bootstrap | Django | Git
+Over time I've worked on a few live projects where the goal was to create simple, user-friendly interfaces and make sure the sites run smoothly across devices.
 
 ---
 
-## 🚀 Live Projects
+##  Some Projects I've Worked On
 
-### RSIM – Music Institute Platform
+**RSIM – Music Institute Website**
 https://www.rsim.co.in/
+A course platform for a music institute that allows users to explore programs and book sessions.
 
-Course booking website for a music institute.
-
-
-### GoregaonProperty – Real Estate Portal
+**GoregaonProperty – Real Estate Portal**
 https://goregaonproperty.com/
+A property listing website built to showcase projects and generate leads for real estate inquiries.
 
-Real estate listing and lead generation platform.
-
-
-### Mittal Enterprises – Corporate Website
+**Mittal Enterprises – Corporate Website**
 https://mittalentrp.com/
+A business website for a company dealing with corporate products and refurbished tech.
 
-Corporate products and refurbished tech website.
-
-
-### JMDA Analytics – IT Services Website
+**JMDA Analytics – IT Services Website**
 https://www.jmdanalytics.co.in/
-
-IT services and solutions company website.
-
-
-##  GitHub Stats
-
-![Aashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashishdev01&show_icons=true)
+A corporate website created for an IT solutions company.
 
 
+##  Skills I Use
 
-##  Connect With Me
+HTML
+CSS
+JavaScript
+Bootstrap
+Django Templates
+Responsive Web Design
 
-If you are looking for a developer to build a business website or improve an existing one, feel free to reach out.
+
+## Things I Like Building
+
+* Business websites
+* Landing pages
+* Admin dashboards
+* Booking or form-based systems
+
+
+##  Contact
+
+If you'd like to connect or discuss a project, feel free to reach out.
